@@ -1,3 +1,3 @@
-# Machine Learning projects
+# Machine Learning Stuff
 
-Uploaded ML projects using Python
+Used to upload ML stuff of what i learn
